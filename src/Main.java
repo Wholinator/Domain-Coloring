@@ -41,7 +41,7 @@ public class Main extends JFrame {
         }
 
         String fileName = "/rainbow gradient.jpg";
-        BufferedImage image = ImageIO.read(getClass().getResource(fileName));  
+        BufferedImage image = ImageIO.read(getClass().getResource(fileName));
 
 
 
